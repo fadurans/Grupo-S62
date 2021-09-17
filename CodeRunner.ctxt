@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CodeRunner
+comment0.text=\ Planteamiento\ de\ la\ situaci\u00F3n\ Reto\ semana\ 1\r\nLa\ empresa\ en\ la\ que\ trabajas\ \ ha\ regalado\ a\ sus\ empleados\ una\ tarjeta\ bono\ con\ $500.000\ y\ como\ haces\ parte\ del\ equipo\ de\ sistemas\ de\ la\ empresa\ \r\nte\ piden\ realizar\ la\ implementaci\u00F3n\ de\ un\ m\u00E9todo/funci\u00F3n\ para\ calcular\ un\ valor\ porcentual\ que\ se\ entregar\u00E1\ de\ forma\ adicional\ a\ los\ empleados\ \r\nseg\u00FAn\ su\ antig\u00FCedad\ en\ la\ empresa.\ \ \r\n\r\n\ @fadurans\ \r\n\ @2julio\r\n\ \r\n\ codigo\ principal,\ separado\ del\ otro\ m\u00E9todo\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

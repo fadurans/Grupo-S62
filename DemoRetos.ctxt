@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DemoRetos
+comment0.text=\ Planteamiento\ de\ la\ situaci\u00F3n\ Reto\ semana\ 1\r\nLa\ empresa\ en\ la\ que\ trabajas\ \ ha\ regalado\ a\ sus\ empleados\ una\ tarjeta\ bono\ con\ $500.000\ y\ como\ haces\ parte\ del\ equipo\ de\ sistemas\ de\ la\ empresa\ \r\nte\ piden\ realizar\ la\ implementaci\u00F3n\ de\ un\ m\u00E9todo/funci\u00F3n\ para\ calcular\ un\ valor\ porcentual\ que\ se\ entregar\u00E1\ de\ forma\ adicional\ a\ los\ empleados\ \r\nseg\u00FAn\ su\ antig\u00FCedad\ en\ la\ empresa.\ \ \r\n\r\n\ @fadurans\ \r\n\ @2julio\r\n
+comment1.params=anios\ bono
+comment1.target=double\ calcularPorcentajeBono(int,\ float)
+comment1.text=\r\n\ \ \ \ public\ static\ void\ main(String\ []\ args)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ int\ anios\=5;\r\n\ \ \ \ \ \ \ \ double\ porcentaje;\r\n\ \ \ \ \ \ \ \ float\ bono\=500000;\ \r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ System.out.println(DemoRetos.calcularPorcentajeBono(anios,bono));\r\n\ \ \ \ }\r\n
+numComments=2
